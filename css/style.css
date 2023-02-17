@@ -1,0 +1,15 @@
+/* Created by: Noah Smith
+* Created on: Feb 2023
+* This CSS file defines the style for html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+h1 {
+  color: red;
+}
+body {
+  background-color: blueviolet;
+}
+h4 {
+  color: red;
+  text-align: center;
+}
